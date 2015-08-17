@@ -13,15 +13,3 @@ fa-icon: check-square-o
 ####As the initial move towards that door, Android App Clinic 2015 offers you the opportunity to get your apps recognized. This year, we conduct the Android App Clinic in the track of Android One Gaming Apps. This is an open event where you can develop and unleash you Android One Gaming Apps and participate in our workshops to fine tune your Apps. Among all the submissions, 10 best Apps will be selected for the final round and one deluxe App will win the competition and the winners to the inconceivable prizes will be proclaimed on the **19th September** at the **Dialog Head Office Auditorium.**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
