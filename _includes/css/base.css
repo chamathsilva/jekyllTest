@@ -26,6 +26,7 @@
 
 	.contain{ min-width: 100%}
 	.left{ width:25%; height: 100%; float:left; }
+	.right{ width:25%; height: 100%; float:right; }
 
 
 /* #Reset & Basics (Inspired by E. Meyers)
