@@ -21,6 +21,12 @@
 	#Forms
 	#Misc */
 
+/* Custom Divs
+==================================================*/
+
+	.contain{ min-width: 100%}
+	.left{ width:25%; height: 100%; float:left; }
+
 
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
